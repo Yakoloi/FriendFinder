@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "A friend finding app that pairs users with others based on a compatibility questionairre.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express.js"
+  ],
+  "author": "Omar Solis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yakoloi/FriendFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yakoloi/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Yakoloi/FriendFinder#readme"
+}
